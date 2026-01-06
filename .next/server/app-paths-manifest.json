@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/api/appointments/route": "app/api/appointments/route.js",
+  "/api/orders/route": "app/api/orders/route.js",
+  "/appointment/page": "app/appointment/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/collection/page": "app/collection/page.js",
+  "/collections/page": "app/collections/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/gizlilik-politikasi/page": "app/gizlilik-politikasi/page.js",
+  "/iade-kosullari/page": "app/iade-kosullari/page.js",
+  "/mesafeli-satis/page": "app/mesafeli-satis/page.js",
+  "/page": "app/page.js",
+  "/product/[slug]/page": "app/product/[slug]/page.js",
+  "/products/page": "app/products/page.js"
+}

@@ -1,0 +1,106 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/_not-found/page-fe9fc664026166c6.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/css/64d18557ef7ade5e.css",
+      "static/chunks/972-f1149f00595fc705.js",
+      "static/chunks/app/layout-c17f496d5da4364b.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/about/page-25132a63a8a3c0fe.js"
+    ],
+    "/appointment/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/appointment/page-1c69ccc39520264b.js"
+    ],
+    "/cart/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/cart/page-66ae2d81ed4bd8fa.js"
+    ],
+    "/collection/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/collection/page-13f8a2e326cc9748.js"
+    ],
+    "/collections/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/collections/page-bc4ecdeda301f9c3.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/contact/page-6f293d5f77b3057d.js"
+    ],
+    "/gizlilik-politikasi/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/gizlilik-politikasi/page-0266de1ff7f729b3.js"
+    ],
+    "/iade-kosullari/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/iade-kosullari/page-42ea119acc2ccd89.js"
+    ],
+    "/mesafeli-satis/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/mesafeli-satis/page-c4d7c1e6c29b0fe8.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/972-f1149f00595fc705.js",
+      "static/chunks/app/page-9ae0d853c76634c6.js"
+    ],
+    "/product/[slug]/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/972-f1149f00595fc705.js",
+      "static/chunks/app/product/[slug]/page-3968ca6a1e7da50f.js"
+    ],
+    "/products/page": [
+      "static/chunks/webpack-b473c55230e6edd1.js",
+      "static/chunks/fd9d1056-10dfaec9b4318f4c.js",
+      "static/chunks/117-e228a0501e4cddbf.js",
+      "static/chunks/main-app-bc117c1b4771342b.js",
+      "static/chunks/app/products/page-bfcc603ae56c0889.js"
+    ]
+  }
+}
